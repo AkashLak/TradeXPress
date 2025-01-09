@@ -1,4 +1,5 @@
 # **TradeXPress** 🤖💱🎮  
+
 **A custom Discord bot designed to revolutionize trading and community engagement for Krunker.io gamers!**
 
 ---
